@@ -1,3 +1,3 @@
 # hello-world
-School 
+Brandon Canonizado / MS Data Science / Boston University
 # hello-world
